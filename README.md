@@ -42,8 +42,12 @@ O projeto utiliza a paleta de cores icônica da série, destacando-se o:
 - **Fundo Profundo:** `#0c0c0c`
 
 ---
-👩‍💻 Desenvolvido por 
-[Yasmin Gama](https://github.com/yasmingama) 
-[LinkedIn]yasmin-gama-a7a555262 (https://www.linkedin.com/in/yasmin-gama-a7a555262)
+
+## 👩‍💻 Autora
+
+**Yasmin Gama de Luna**
+
+* **LinkedIn:** [yasmin-gama-a7a555262](https://www.linkedin.com/in/yasmin-gama-a7a555262)
+* **GitHub:** [yasmingama](https://github.com/yasmingama)
 
 *"Wubba Lubba Dub Dub!"* 🛸
