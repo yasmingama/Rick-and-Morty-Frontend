@@ -38,8 +38,8 @@ Este projeto foi desenvolvido utilizando o "Vanilla Triple" (HTML, CSS e JS puro
 
 ## 🎨 Preview de Estilização
 O projeto utiliza a paleta de cores icônica da série, destacando-se o:
-- **Verde Portal:** `chartreuse`
-- **Fundo Profundo:** `#0c0c0c`
+- **Verde Portal**
+- **Fundo Profundo** 
 
 ---
 
